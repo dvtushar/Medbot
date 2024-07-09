@@ -28,7 +28,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Screenshot of the working app
 ![image](https://github.com/dvtushar/Medbot/assets/96177523/8892f84e-00e6-4d51-b76e-651a5349de47)
 ![image](https://github.com/dvtushar/Medbot/assets/96177523/fa9fe8e7-e2f2-44a4-b921-7f90d843881d)
-
+![image](https://github.com/dvtushar/Medbot/assets/96177523/a1d2ceb4-26a0-4119-80a0-89050648830f)
 
 
 
