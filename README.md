@@ -37,7 +37,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Running the application
 1. **Start the Chainlit Server:**
     ```sh
-    chainlit run app.py
+    chainlit run app.py -w
 2. **Access the Web Application:**
   Open your web browser and go to http://localhost:8000.
 
