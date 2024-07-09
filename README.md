@@ -1,3 +1,4 @@
+## Medbot
 MedBot is an intelligent medical chatbot leveraging the capabilities of Llama 2.0 Large Language Model (LLM). This repository provides a comprehensive solution for querying medical and disease-related information from uploaded PDF documents. The web application is built using Chainlit and LangChain to ensure an intuitive and user-friendly interface.
 
 ## Features
