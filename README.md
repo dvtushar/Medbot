@@ -1,4 +1,4 @@
-# MedBot
+![image](https://github.com/dvtushar/Medbot/assets/96177523/a621e9e2-df70-475f-8f5a-393e45f853d4)# MedBot
 
 MedBot is an intelligent medical chatbot leveraging the capabilities of Llama 2.0 Large Language Model (LLM). This repository provides a comprehensive solution for querying medical and disease-related information from uploaded PDF documents. The web application is built using Chainlit and LangChain to ensure an intuitive and user-friendly interface.
 
@@ -26,3 +26,12 @@ Follow these instructions to get a copy of the project up and running on your lo
    ```sh
    git clone https://github.com/dvtushar/medbot.git
    cd medbot
+### Screenshot of the working app
+![image](https://github.com/dvtushar/Medbot/assets/96177523/8892f84e-00e6-4d51-b76e-651a5349de47)
+![image](https://github.com/dvtushar/Medbot/assets/96177523/fa9fe8e7-e2f2-44a4-b921-7f90d843881d)
+
+
+
+
+
+
